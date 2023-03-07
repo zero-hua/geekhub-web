@@ -1,0 +1,22 @@
+body {
+  height: 100%;
+  font-size: .12rem;
+  margin: 0;
+}
+html,body,#app,.el-container {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.el-header {
+  padding: 0;
+}
+* {
+    box-sizing: border-box;
+}
